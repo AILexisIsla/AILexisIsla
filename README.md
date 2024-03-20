@@ -30,4 +30,4 @@ Hello World 👋 It's [Alexis!](https://alexisislaportfolio3d.netlify.app/)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AILexisIsla&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alexisisla&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alexisisla&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
