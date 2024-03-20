@@ -1,7 +1,7 @@
 Hello World 👋 It's [Alexis!](https://alexisislaportfolio3d.netlify.app/)
 
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: I'm 'game dev', try some of my games here is one [Shut em up!](https://alexisisladev.itch.io/bahia-blanca-ovni-invader?secret=XKalTejpcElcgnwrIBqpy4VLePA).
+🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: I'm 'game dev', try some of my games, here is one [Shut em up!](https://alexisisladev.itch.io/bahia-blanca-ovni-invader?secret=XKalTejpcElcgnwrIBqpy4VLePA).
 
 
 
